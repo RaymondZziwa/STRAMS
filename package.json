@@ -23,5 +23,5 @@
     "cross-env": "^5.2.0",
     "@keystone-alpha/list-plugins": "latest",
     "@keystone-alpha/app-next": "latest"
-  }
+  } 
 }
