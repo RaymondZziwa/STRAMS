@@ -7,7 +7,7 @@ const {UserSchema, StudentSchema, ClassroomSchema, SubjectSchema, TeacherSchema,
 
 const PROJECT_NAME = "STRAMS";
 
-
+   
 const keystone = new Keystone({
   name: PROJECT_NAME,
   adapter: new Adapter(),
