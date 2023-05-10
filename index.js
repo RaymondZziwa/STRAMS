@@ -6,7 +6,7 @@ const {MongooseAdapter: Adapter} = require('@keystone-alpha/adapter-mongoose');
 const {UserSchema, StudentSchema, ClassroomSchema, SubjectSchema, TeacherSchema, ScoresheetSchema, ExamSchema, ScoreSchema} = require('./models/index');
 
 const PROJECT_NAME = "STRAMS";
-
+        
    
 const keystone = new Keystone({
   name: PROJECT_NAME,
